@@ -1,0 +1,5 @@
+#+title: TITAN Decompiled
+#+description: Decompiled files of OSBORNNARTEY's TITAN tool
+
+* TITAN Decompiled
+A decompiled form of OSBORNNARTEY's [[https://github.com/OSBORNNARTEY/TITAN][TITAN]] tool
